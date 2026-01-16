@@ -2,7 +2,6 @@
 
 Make your websites dynamic and interactive with The Odin Proejct JavaScript Course.
 
-- Full Stack JavaScript
-- JavaScript Course
-- A Bit of Computer Science
-
+- Started: 11 January 2026
+- Completed:
+- Status: In Progress
