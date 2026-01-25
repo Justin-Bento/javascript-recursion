@@ -1,4 +1,4 @@
-function fibonacci(n) {
+function fibonacciRec(n) {
   /*
     Base case:
     - If n is less than 2, return n to stop recursion
@@ -7,4 +7,4 @@ function fibonacci(n) {
   console.log(n);
 }
 
-fibonacci("Hello World");
+fibonacciRec("Hello World");
