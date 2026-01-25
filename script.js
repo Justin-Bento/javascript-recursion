@@ -1,5 +1,6 @@
 function fibonacciIter(n) {
-  for (let i = 0; i < n; i++) {
+  const result = [0, 1];
+  for (let i = 2; i < n; i++) {
     console.log(i + 1);
   }
 }
