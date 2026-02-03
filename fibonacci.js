@@ -8,8 +8,17 @@ function fibonacciIter(n) {
 console.log(fibonacciIter(8));
 
 function fibonacciRec(n) {
-  if (n === 0) return 0;
-  if (n === 1) return 1;
-  return fibonacciRec(n - 1) + fibonacciRec(n - 2);
+  function fib(num) {
+    if (num === 0) return 0;
+    if (num === 1) return 1;
+    return fib(num - 1) + fib(num - 2);
+  }
+
+  const result = [];
+  for (let i = 0; i < n; i++) {
+    // start at 0 to include the first two numbers
+    result.push(fib(i));
+  }
+  return result;
 }
-console.log(fibonacciRec(7));
+console.log(fibonacciRec(8));
