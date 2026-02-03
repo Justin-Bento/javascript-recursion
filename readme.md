@@ -7,7 +7,7 @@ After learning that recursion is the idea of a function calling itself, The Odin
 The Fibonacci Sequence, is a numerical sequence where each number is the sum of the two numbers before it. Eg. 0, 1, 1, 2, 3, 5, 8, 13 are the first eight digits in the sequence.
 
 - Started: 11 January 2026
-- Completed 2nd February 2026
+- Completed: 2nd February 2026
 
 ## Merge Sort
 
