@@ -14,4 +14,4 @@ The Fibonacci Sequence, is a numerical sequence where each number is the sum of 
 Merge sort is one such sorting algorithm, and can be much faster than other algorithms such as bubble sort on the right data sets. Essentially merge sort recurses through an array of unsorted data until it reaches its smallest sub-set, a single item. Of course an array with a single item is considered sorted. Merge sort then merges the single items back together in sorted order. Pretty clever!
 
 - Started: 2nd January 2026
-- Status: In Progress
+- Status: Flagged, as I don’t fully get this yet will come back later.
